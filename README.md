@@ -16,7 +16,7 @@ By selecting one of the three encoding types and next paste the required string,
 Projeto aberto para ajuda!
 
 ## 🔖 Licensa
-[![LICENSA](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
+[![LICENSA](https://img.shields.io/badge/MIT-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
 
 ### Support Ou Contato
 
