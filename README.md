@@ -14,6 +14,16 @@ By selecting one of the three encoding types and next paste the required string,
 - View Binding
 - Coroutines
 
+## Images
+
+<img src="sample_image_5.jpeg" alt="exemplo imagem">
+<img src="sample_image_7.jpeg" alt="exemplo imagem">
+<img src="sample_image_6.jpeg" alt="exemplo imagem">
+<img src="sample_image_1.jpeg" alt="exemplo imagem">
+<img src="sample_image_4.jpeg" alt="exemplo imagem">
+<img src="sample_image_3.jpeg" alt="exemplo imagem">
+<img src="sample_image_2.jpeg" alt="exemplo imagem">
+
 ## Developed with:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/get-windows-10)
 [![IDE](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=kotlin3&logoColor=white)](https://developer.android.com/studio)
